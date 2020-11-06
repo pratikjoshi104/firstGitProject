@@ -14,4 +14,4 @@ change 8:-> Byt team mate on remote master to test rebase
 
 
 change 9: -> on localmaster to test rebase for WI8
-
+change 10:-> Test simple pull operation from remote to local by team mate
