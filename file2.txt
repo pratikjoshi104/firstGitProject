@@ -1,5 +1,5 @@
 
-welcome to git demo
+
 change1 done 
 
 change 3 by master create conflict
@@ -9,4 +9,9 @@ change 5 for enhancement
 !!!!!Modified!!!!!!
 
 change 7: -> Push to OriginMaster from LocalMaster
+
 change 8:-> Byt team mate on remote master to test rebase
+
+
+change 9: -> on localmaster to test rebase for WI8
+
